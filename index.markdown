@@ -11,7 +11,7 @@ This class is a joint Harvard-MIT graduate course on topics of recent interest i
 ## Course Information
 **Instructors:** [Anurag Anshu](https://anuraganshu.seas.harvard.edu/), [Anand Natarajan](https://www.mit.edu/~anandn/).
 
-**Teaching fellows/assistants:** [Yeongwoo Hwang](https://hwangy.github.io/), [Tina Zhang](https://scholar.google.com/citations?user=ShLm6rsAAAAJ&hl=en)
+**Teaching fellows/assistants:** [Yeongwoo Hwang](https://hwangy.github.io/), [Tina Zhang](https://tuneful-triangulist.github.io/website/)
 
 **Space-time coördinates:** Tuesdays & Thursdays 11:00 a.m. to 12:30 p.m., MIT [36-153](https://whereis.mit.edu/?go=36)
 
