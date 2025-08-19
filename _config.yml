@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Frontiers of Quantum Complexity Theory (MIT 6.5430)
+title: Frontiers of Quantum Complexity Theory (MIT 6.5430, Harvard CS 2232)
 email: anandn@mit.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Course website for Frontiers of Quantum Complexity, a graduate topics course.
