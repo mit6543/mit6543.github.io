@@ -9,7 +9,7 @@ layout: default
 This class is a joint Harvard-MIT graduate course on topics of recent interest in quantum complexity theory, especially focusing on the area of Hamiltonian complexity.
 
 ## Course Information
-**Instructors:** [Anurag Anshu](https://anuraganshu.seas.harvard.edu/), [Anand Natarajan](https://www.mit.edu/~anandn/).
+**Instructors:** [Anurag Anshu](https://anuraganshu.seas.harvard.edu/) (anuraganshu at fas dot harvard dot edu), [Anand Natarajan](https://www.mit.edu/~anandn/) (anandn at mit dot edu).
 
 **Teaching fellows/assistants:** [Yeongwoo Hwang](https://hwangy.github.io/), [Tina Zhang](https://tuneful-triangulist.github.io/website/)
 
@@ -20,6 +20,8 @@ MIT: Tuesdays & Thursdays 11:00 a.m. to 12:30 p.m., [36-153](https://whereis.mit
 Harvard: TBD
 
 **Our first class meeting will be Thursday 9/4 at MIT!**
+
+**Piazza:** [Available here](https://piazza.com/class/met04rvtui93re/).
 
 ## Lecture schedule and readings
 
