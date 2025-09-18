@@ -6,6 +6,7 @@ layout: default
 ---
 ## Announcements
 
+- \[9/18\]: **[Problem Set 1](psets/ps1.pdf)** available, due **October 9th**.
 - \[9/9\]: **[Problem Set 0](psets/ps0.pdf)** available. Not graded but please complete to the best of your ability by the end of the week!
 - \[9/9\]: Please join the Piazza page for access to lecture videos and further announcements! (Code required, get it in class or email us.)
 
