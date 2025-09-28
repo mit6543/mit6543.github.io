@@ -5,8 +5,8 @@
 layout: default
 ---
 ## Announcements
-
-- \[9/18\]: **[Problem Set 1](psets/ps1.pdf)** available, due **October 9th**.
+- \[9/28\]: **[Problem Set 1](psets/ps1-corrected.pdf)** updated with some typo fixes.
+- \[9/18\]: **[Problem Set 1](psets/ps1-corrected.pdf)** available, due **October 9th**.
 - \[9/9\]: **[Problem Set 0](psets/ps0.pdf)** available. Not graded but please complete to the best of your ability by the end of the week!
 - \[9/9\]: Please join the Piazza page for access to lecture videos and further announcements! (Code required, get it in class or email us.)
 
@@ -28,14 +28,14 @@ MIT: Tuesdays & Thursdays 11:00 a.m. to 12:30 p.m., [36-153](https://whereis.mit
 
 ## Lecture schedule and readings
 
-| Date | Topic | Readings|
+| Date | Topic | Scribe notes |
 | --- | --- | --- |
-| 9/4 | QMA basics |  |
-| 9/9 | QMA in PP, Feynman-Kitaev construction and the Local Hamiltonian problem | |
-| 9/11 | Feynman-Kitaev construction, QMA- and BQP-complete problems |  |
-| 9/16 | Perturbation theory and physical Hamiltonains | |
-| 9/18 | Quantum Gibbs state basics | |
-| 9/23 | The Bose-Hubbard and SYK models | |
+| 9/4 | QMA basics | [L0](lectures/l0.pdf), [L1](lectures/l1.pdf) |
+| 9/9 | QMA in PP, Feynman-Kitaev construction and the Local Hamiltonian problem | [L2](lectures/l2.pdf) |
+| 9/11 | Feynman-Kitaev construction, QMA- and BQP-complete problems | [L3](lectures/l3.pdf) |
+| 9/16 | Perturbation theory and physical Hamiltonains |[L4](lectures/l4.pdf) |
+| 9/18 | Quantum Gibbs state basics | [L5](lectures/l5.pdf) |
+| 9/23 | The Bose-Hubbard and SYK models | [L6](lectures/l6.pdf) |
 | 9/25 | Subclasses of QMA: StoqMA and QCMA | |
 | 9/30 | Oracle separations between QMA and QCMA | |
 | 10/2 | Tractable instances of LH: product states and matrix product states | |
