@@ -36,24 +36,25 @@ MIT: Tuesdays & Thursdays 11:00 a.m. to 12:30 p.m., [36-153](https://whereis.mit
 | 9/16 | Perturbation theory and physical Hamiltonains |[L4](lectures/l4.pdf) |
 | 9/18 | Quantum Gibbs state basics | [L5](lectures/l5.pdf) |
 | 9/23 | The Bose-Hubbard and SYK models | [L6](lectures/l6.pdf) |
-| 9/25 | Subclasses of QMA: StoqMA and QCMA | |
-| 9/30 | Oracle separations between QMA and QCMA | |
-| 10/2 | Tractable instances of LH: product states and matrix product states | |
-| 10/7 | The Guided LH problem and quantum algorithms | |
-| 10/9 | Hardness of approximation for Hamiltonians and quantum PCP | |
-| 10/14 | Quantum PCP: proofs and nonlocal games | |
-| 10/16 | Monogamy of entanglement and the Brandão-Harrow theorem | |
-| 10/21 | Quantum gap amplificaiton and the detectabilty lemma | |
+| 9/25 | Subclasses of QMA: StoqMA and QCMA | [L7](lectures/l7.pdf) |
+| 9/30 | Oracle separations between QMA and QCMA | [L8](lectures/l8.pdf) |
+| 10/2 | Tractable instances of LH: product states and matrix product states | [L9](lectures/l9.pdf)|
+| 10/7 | The Guided LH problem and quantum algorithms | [L10](lectures/l10.pdf) |
+| 10/9 | Hardness of approximation for Hamiltonians and quantum PCP | [L11](lectures/l11.pdf) |
+| 10/14 | Quantum PCP: proofs and nonlocal games | [L12](lectures/l12.pdf) |
+| 10/16 | Monogamy of entanglement and the Brandão-Harrow theorem | [L13](lectures/l13.pdf) |
+| 10/21 | Quantum gap amplificaiton and the detectabilty lemma |[L14](lectures/l14.pdf) |
 | 10/23 | DL and decay of correlations | |
-| 10/25 | DL and area laws | |
+| 10/25 | DL and area laws | [L16](lectures/l16.pdf) |
 | 10/30 | Area laws in frustrated systems | |
-| 11/4 | Complexity of state and unitary synthesis | |
-| 11/6 | Unitary synthesis and Hamiltonian simulation | |
+| 11/4 | Renormalization group and algorithms for 1D systems | |
+| 11/6 | Gibbs sampling | |
 | 11/11 | <font color="red">No class</font> (Veterans' Day) | |
-| 11/13 | Quantum Gibbs sampling and detailed balance | |
-| 11/18 | Hamiltonian learning | |
-| 11/20 | Variational quantum algorithms | |
-| 11/25 | Group problems in QMA | |
+| 11/13 | Hamiltonian learning | [L20](lectures/l20.pdf) |
+| 11/18 | State synthesis | |
+| 11/20 | Unitary synthesis | |
+| 11/25 | Consistency of local density matrices | [L23](lectures/l23.pdf) |
 | 11/27 | <font color="red">No class</font> (Thanksgiving) | |
-| 12/3 | Topological data analysis | |
-| 12/5 | Final project presentations | |
+| 12/2 | <font color="red">Class cancelled</font> | |
+| 12/4 | Guest lecture: Hamiltonian DQI | [L24](lectures/l24.pdf) |
+| 12/9 | Final project presentations | |
