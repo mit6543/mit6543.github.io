@@ -47,11 +47,11 @@ MIT: Tuesdays & Thursdays 11:00 a.m. to 12:30 p.m., [36-153](https://whereis.mit
 | 10/23 | DL and decay of correlations | |
 | 10/25 | DL and area laws | [L16](lectures/l16.pdf) |
 | 10/30 | Area laws in frustrated systems | |
-| 11/4 | Renormalization group and algorithms for 1D systems | |
+| 11/4 | Renormalization group and algorithms for 1D systems | [L18](lectures/l18.pdf) |
 | 11/6 | Gibbs sampling | |
 | 11/11 | <font color="red">No class</font> (Veterans' Day) | |
 | 11/13 | Hamiltonian learning | [L20](lectures/l20.pdf) |
-| 11/18 | State synthesis | |
+| 11/18 | State synthesis | [L21](lectures/l21.pdf) |
 | 11/20 | Unitary synthesis | |
 | 11/25 | Consistency of local density matrices | [L23](lectures/l23.pdf) |
 | 11/27 | <font color="red">No class</font> (Thanksgiving) | |
