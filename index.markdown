@@ -44,11 +44,11 @@ MIT: Tuesdays & Thursdays 11:00 a.m. to 12:30 p.m., [36-153](https://whereis.mit
 | 10/14 | Quantum PCP: proofs and nonlocal games | [L12](lectures/l12.pdf) |
 | 10/16 | Monogamy of entanglement and the Brandão-Harrow theorem | [L13](lectures/l13.pdf) |
 | 10/21 | Quantum gap amplificaiton and the detectabilty lemma |[L14](lectures/l14.pdf) |
-| 10/23 | DL and decay of correlations | |
+| 10/23 | DL and decay of correlations | [L15](lectures/l15.pdf) |
 | 10/25 | DL and area laws | [L16](lectures/l16.pdf) |
 | 10/30 | Area laws in frustrated systems | |
 | 11/4 | Renormalization group and algorithms for 1D systems | [L18](lectures/l18.pdf) |
-| 11/6 | Gibbs sampling | |
+| 11/6 | Gibbs sampling | [L19](lectures/l19.pdf) |
 | 11/11 | <font color="red">No class</font> (Veterans' Day) | |
 | 11/13 | Hamiltonian learning | [L20](lectures/l20.pdf) |
 | 11/18 | State synthesis | [L21](lectures/l21.pdf) |
